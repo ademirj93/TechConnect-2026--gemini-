@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TechConnect 2026",
+    "slug": "techconnect-2026",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "TechConnect 2026 — Conectando ideias, transformando o futuro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
